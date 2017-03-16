@@ -1,0 +1,125 @@
+body {
+    background-color: black;
+}
+/*wrapper开始*/
+.wrapper {
+    max-width: 1280px;
+    margin: 0 auto;
+    background-color: #eeeeee;
+    position: relative;
+}
+/*header开始*/
+.header {
+    width:1280px;
+    height: 60px;
+    background-color: #666;
+}
+.header_right li {
+    display: inline-block;
+}
+.header_right li a {
+    text-decoration: none;
+}
+.header_left {
+    float: left;
+}
+.header_right {
+    float: right;
+}
+/*main开始*/
+.main {
+    margin-right: 425px;
+}
+.article1 {
+    background-color: white;
+    margin-left: 17px;
+}
+.article2 {
+    background-color: white;
+    margin-left: 17px;
+}
+.pic {
+    height: 400px;
+    background-color: white;
+    margin-left: 17px;
+}
+.pic p {
+}
+.pic .test {
+    width: 120px;
+    float: left;
+    border: 1px solid #ccc;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.pic img {
+    width: 100px;
+    height: 100px;
+    margin-left: 5px;
+}
+.article3 {
+    background-color: white;
+    margin-left: 17px;
+}
+.article3 table {
+    margin-left: 24px;
+}
+/*sidebar开始*/
+.sidebar {
+    width: 365px;
+    height: 460px;
+    background-color: white;
+    position: absolute;
+    top:80px;
+    right: 20px;
+}
+.sidebar h2 {
+    margin-left: 20px;
+    padding-left: 20px;
+    border-left: 3px solid cadetblue;
+}
+.sidebar form {
+    margin-left: 30px;
+}
+.sidebar p {
+    margin-left: 30px;
+}
+.sidebar .sub {
+    width: 320px;
+    height: 40px;
+    background-color: royalblue;
+    border-radius: 15px;
+    margin-left: 23px;
+    margin-top: 25px;
+}
+/*页脚开始*/
+.footer {
+    width: 1280px;
+    height: 60px;
+    background-color: darkslategray;
+    margin: 0 auto;
+}
+.footer p {
+    margin-left: 600px;
+    padding-top: 18px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
